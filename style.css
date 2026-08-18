@@ -1,0 +1,264 @@
+
+       body {
+         background-image: url('/images/planetearth.jpg');
+         background-size: cover;
+         background-repeat: no-repeat;
+         height: 100%;
+         margin: 0;
+         padding: 0;
+         background-position: center;
+         background-attachment: fixed;
+       }
+        
+
+      hr {
+        border: 2px solid skyblue;
+      }
+
+       .profile {
+        border: 5px solid black;
+        border-radius: 10px;
+      }
+
+
+      #cat{
+        border: 5px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        height: 400px;
+        width: 350px;
+        display: block;
+        margin: 0 auto;
+
+      }
+
+      @media (max-width: 500px) {
+
+       #cat {
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+       }
+
+      }
+
+       a {color: black;}
+     
+        h2 {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        background-color: rgb(17, 53, 96);
+        border-radius: 18px;
+        color: white;
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+       }
+
+       p {
+        font-size: 18px;
+        background-color: transparent;
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+        color: rgb(4, 230, 251);
+        text-align: center;
+        font-family: italic;
+       }
+
+       .button-54 {
+       font-family: "Open Sans", sans-serif;
+       font-size: 16px;
+       letter-spacing: 2px;
+       text-decoration: none;
+       text-transform: uppercase;
+       color: #000;
+      cursor: pointer;
+      border: 3px solid;
+      padding: 0.25em 0.5em;
+      box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+      position: relative;
+      user-select: none;
+     -webkit-user-select: none;
+      touch-action: manipulation;
+     }
+
+     .button-54:active {
+      box-shadow: 0px 0px 0px 0px;
+      top: 5px;
+      left: 5px;
+     }
+
+      @media (min-width: 768px) {  
+        .button-54 {
+         padding: 0.25em 0.75em;
+      }
+      }
+
+       #x {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(121, 2, 189);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+       }
+
+
+      #em {
+        
+          float: right;
+          margin: 35px;
+          border-radius: 20px;
+          opacity: 0.5;
+          width: 300px;
+          height: 320px;
+
+      }
+
+      @media (max-width: 500px) {
+
+       #em {
+        width: 80%;
+        height: auto;
+        max-width: 300px;
+       }
+
+
+      }
+
+
+       #j {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(1, 255, 174);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+       }
+
+       #y {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(142, 234, 255);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+       }
+
+      #k {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(232, 213, 5);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+      }
+
+      #l {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(234, 5, 85);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+      }
+
+      #c {
+        text-align: center;
+        font-family: verdana;
+        font-style: italic;
+        color: rgb(101, 1, 1);
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+      }
+
+      .r {
+        text-align: center;
+        font-family:Trebuchet;
+        font-style: italic;
+        font-size: 150%;
+        background-color: rgb(247, 234, 161);
+        width: 50%;
+        margin: 20px;
+        border-radius: 20px;
+        color: black;
+        text-shadow:
+         1px 1px black,
+         0 0 25px yellow,
+         0 0 3px orange;
+      }
+
+      #para {
+         text-align: left;
+        font-family: Trebuchet;
+        font-style: italic;
+        width: 50%;
+        margin: 15px;
+        color: white;
+        text-shadow:
+         1px 1px black,
+         0 0 25px yellow,
+         0 0 3px orange;
+      }
+
+      @media (max-width: 500px) {
+
+    #para {
+      text-align: center;
+      font-family: trebuchet;
+      font-style: italic;
+      width: 40px;
+      color: white;
+      text-shadow: 
+      1px 1px black, 
+      0 0 25px yellow, 
+      0 0 orange;
+    }
+      }
+
+      .contact {
+
+       font-size: 18px;
+        background-color: transparent;
+        text-shadow:
+          1px 1px 2px black,
+              0 0 25px blue,
+              0 0 5px darkblue;
+        color: rgb(4, 230, 251);
+        margin: 18px;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+
+      }
+
+      .svg {
+         
+        background-color: white;
+         border-radius: 25px;
+         width: 30px;
+         height: 35px;
+
+      }
+
+      @media (max-width: 500px) {
+        .svg {
+          width: 40%;
+          height: auto;
+          max-width: 50px;
+        }
+      }
