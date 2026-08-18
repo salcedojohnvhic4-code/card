@@ -271,8 +271,8 @@
        #profile {
           margin: 0 auto;
           display: block;
-          background-image: black;
+          background-color: black;
           border-radius: 15px;
           width: 200px;
-          height: 190px; }
+          height: auto; }
 }
