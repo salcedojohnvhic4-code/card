@@ -267,7 +267,7 @@
        border-radius: 20px;
         }
 
-@media (max-width: 360px) {
+@media (max-width: 470px) {
        #profile {
           margin: 0 auto;
           display: block;
