@@ -15,13 +15,8 @@
         border: 2px solid skyblue;
       }
 
-       .profile {
-        border: 5px solid black;
-        border-radius: 10px;
-      }
 
-
-      #cat{
+      #cat {
         border: 5px solid rgb(0, 0, 0);
         border-radius: 10px;
         height: 400px;
