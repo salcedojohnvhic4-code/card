@@ -1,6 +1,6 @@
 
        body {
-         background-image: url('/images/planetearth.jpg');
+         background-image: url('planetearth.jpg');
          background-size: cover;
          background-repeat: no-repeat;
          height: 100%;
