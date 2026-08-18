@@ -262,3 +262,15 @@
           max-width: 50px;
         }
       }
+profile {
+       background-color: black;
+       float: center;
+       border-radius: 20px;
+       width: 370;
+       height: 300; }
+@media (max-width: 500px) {
+       profile {
+              width: 40%;
+          height: auto;
+          max-width: 50px; }
+}
