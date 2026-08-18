@@ -262,15 +262,13 @@
       width: 370px;
        height: 300px;
        background-color: black;
-       display: block;
-       margin: 0 auto;
+       text-align: center;
        border-radius: 20px;
         }
 
 @media (max-width: 470px) {
        #profile {
-          margin: 0 auto;
-          display: block;
+          text-align: center;
           background-color: black;
           border-radius: 15px;
           width: 200px;
