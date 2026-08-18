@@ -264,10 +264,12 @@
       }
 #profile {
        background-color: black;
-       float: center;
+       display: block;
+       margin: 0 auto;
        border-radius: 20px;
        width: 370;
        height: 300; }
+
 @media (max-width: 260px) {
        #profile {
               width: 40%;
